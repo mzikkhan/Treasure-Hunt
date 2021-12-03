@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635406038 source:c:\c\practise\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+
